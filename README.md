@@ -31,7 +31,14 @@ The token is deployed on Sepolia testnet and verified on Etherscan:
 │   └── Token.t.sol        # Test suite
 ├── script/
 │   └── DeployToken.s.sol  # Deployment script
-└── cli_pictures/          # CLI screenshots
+├── cli_pictures/          # CLI screenshots
+├── broadcast/             # receipts of your deployments
+├── .gitignore
+├── .gitmodules
+├── LICENSE.md
+├── README.md
+├── foundry.lock
+└── foundry.toml
 ```
 
 ## Getting Started
